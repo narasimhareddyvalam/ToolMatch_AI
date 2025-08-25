@@ -81,15 +81,11 @@ Two modes of interaction:
 
 ---
 
-## 📦 Repository Structure
+## 📦 Assets Structure
 toolmatch-ai/
-├─ ToolMatchAI.pdf # Full project report
-├─ demo.mp4 # Demo video (optional, add via Git LFS if >100MB)
-├─ dataset/ # Training dataset (.jsonl)
-├─ notebook/ # Colab/Notebooks for fine-tuning & inference
-├─ model/ # Saved fine-tuned model + tokenizer
-├─ app/ # Gradio web app files
-├─ README.md # You are here
+- **ToolMatchAI_Code.zip** — Source code, dataset, model, notebooks, and Gradio app  
+- **ToolMatchAI_Demo** — Demo video walkthrough  
+- **ToolMatchAI.pdf** — Full project report  
 
 ---
 
